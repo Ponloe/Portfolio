@@ -1,0 +1,21 @@
+body {
+  margin: 0; 
+}
+
+.logo-container {
+  position: fixed;
+  top: 0;
+  right: 200px;
+  bottom: 0;
+  width: 600px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.solid-logo {
+  max-width: 100%;
+  height: auto;
+}
+
+
