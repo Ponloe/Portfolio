@@ -1,15 +1,15 @@
 {
     "portfolio" : [
         {
-            "cover": "/",
-            "title": "Hotel Management",
-            "description": "HTML, CSS, JS, PHP",
-            "url": "http://google.com"
+            "cover": "/portfolio/1.png",
+            "title": "Car Rental System",
+            "description": "Next, Typescript, CSS, API",
+            "url": "https://github.com/Ponloe/car-rental"
         },
         {
-            "cover": "/",
-            "title": "Hotel Management",
-            "description": "HTML, CSS, JS, PHP",
+            "cover": "Project1.png",
+            "title": "Workflow and Task Management System",
+            "description": "PHP, MySQL, Bootstrap, Laravel",
             "url": "http://google.com"
         }
     ]
